@@ -1,0 +1,32 @@
+by 5105temuge3.49-2+htsswf+htsjava launched on Fri, 21 Jul 2023 11:16:18 at https://temugebat0612.wixsite.com/mysite-1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+by 5105temugeby 5105temugeby 5105temuge
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- ed from %s%s by HTTrack made pro temuge/3.x [XR&CO'2014], %s -->" -%l "en, *" https://temugebat0612.wixsite.com/mysite-1 -O1 "C:\Users\temug\3D Objects\naizohin salah" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this :
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites ed in this project
+
+	do not share these files/folders if you want these information to remain private
+
+by 5105temuge
+
+11:16:34	Error: 	"Not Found" (404) at link https://temugebat0612.wixsite.com/ (from https://temugebat0612.wixsite.com/mysite-1)
+
+11:16:34	Error: 	"Not Found" (404) at link https://temugebat0612.wixsite.com/sitemap.xml (from https://temugebat0612.wixsite.com/mysite-1)
+
+11:16:34	Error: 	"Not Found" (404) at link https://temugebat0612.wixsite.com/feed.xml (from https://temugebat0612.wixsite.com/mysite-1)
+
+11:16:34	Error: 	"Not Found" (404) at link https://temugebat0612.wixsite.com/${n.uri} (from https://temugebat0612.wixsite.com/mysite-1)
+
+11:16:34	Error: 	"Not Found" (404) at link https://temugebat0612.wixsite.com/decodeURIComponent(e (from https://temugebat0612.wixsite.com/mysite-1)
+
+
+
+HTTrack made pro temuge/3.49-2  complete in 16 seconds : 22 links scanned, 16 files written (1159778 bytes overall) [532600 bytes received at 33287 bytes/sec], 950440 bytes transferred using HTTP compression in 15 files, ratio 30%, 1.1 requests per connection
+
+(5 errors, 0 warnings, 0 messages)
+

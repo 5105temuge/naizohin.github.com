@@ -1,0 +1,7 @@
+# by 5105temuge made pro temuge Cookie File
+# This file format is compatible with Netscape cookies
+temugebat0612.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=uw2-pub-1_g
+temugebat0612.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1689963378|cM-J5-Dmc-2k
+temugebat0612.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01286b42af57c6d4dab1402038b0f9a588112fdf24efc2f2c10b6d4846adecaf02575df299e0b9d1b5bb421e1385fe5f470f2f25bc
+
